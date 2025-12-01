@@ -19,3 +19,102 @@
         -ms-flex-pack: justify;
             justify-content: space-between;
 }
+
+.site-brand {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+    opacity: 0.95;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.site-brand span {
+    font-weight: 900;
+}
+
+#Navbar-show-btn {
+    display: none;
+    position: fixed;
+    top: 1.2rem;
+    right: 1.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: var(--green);
+    border: none;
+    border-radius: 0.3rem;
+    color: #fff;
+    font-size: 1.5rem;
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+    -webkit-transition: var(--trans);
+    transition: var(--trans);
+    opacity: 0.8;
+}
+
+#Navbar-show-btn:hover{
+    opacity: 1;
+}
+
+#Navbar-collapse{
+    background-color: var(--green);
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    padding: 2rem;
+    -webkit-transform: translateX(100%);
+        -ms-transform: translateX(100%);
+          transform: translateX(100%);
+    -webkit-transition: var(--trans);
+    -o-transition: var(--trans);
+    transition: var(--trans);
+}
+
+.Navbar-collapse-rmw{
+    -webkit-transform: translateX(0)!important;
+        -ms-transform: translateX(0)!important;
+            transform: translateX(0)!important;
+}
+
+#Navbar-close-btn {
+   background: none;
+    color: #fff;
+    width: 35px;
+    height: 35px;
+    border-radius: 0.2rem;
+    font-size: 2rem;
+    -webkit-transition: var(--trans);
+    -o-transition: var(--trans);
+    transition: var(--trans);
+    position: absolute;
+    right: 1rem;
+    top: 2rem;
+    border: none;
+}
+ 
+#Navbar-close-btn:hover{
+    background-color: #fff;
+    color: var(--dark);
+}
+
+.Navbar-nav {
+    margin-top: 5rem;
+}
+
+.nav-item {
+    margin: 1.6rem 0;
+}
+
+.nav-link {
+    color: #000000;
+    font-size: 1.2rem;
+    -webkit-transition: var(--trans);
+    -o-transition: var(--trans);
+    transition: var(--trans);
+}
+
+.nav-link:hover{
+    opacity: 0.8;
+}
