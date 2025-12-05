@@ -377,7 +377,7 @@ header {
 
 
 #support {
-    background-color: var(--light-grey);
+    background-color: rgb(251, 251, 251);
 }
 
 .text-item {
@@ -438,7 +438,7 @@ footer {
 footer::before {
     content: "";
     position: absolute;
-    background-color: var(--pink);
+    background-color: var(--black);
     height: 4px;
     top: 0;
     left: 0;
