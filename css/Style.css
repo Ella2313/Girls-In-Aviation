@@ -377,7 +377,7 @@ header {
 
 
 #support {
-    background-color: rgb(251, 251, 251);
+    background-color: rgb(247, 247, 247);
 }
 
 .text-item {
@@ -490,3 +490,6 @@ footer::before {
 }
 
 
+img {
+    justify-items: center;
+}
