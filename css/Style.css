@@ -1,5 +1,5 @@
 :root {
-    --green: #1ec6b6;
+    --green: lightskyblue;
     --light-grey: #f7f7f7;
     --dark: #0e1010;
     --trans: all 0.3s ease-in-out;
@@ -48,7 +48,7 @@
 }
 
 #navbar-collapse {
-    background-color: var(--green);
+    background-color: lightblue;
     position: fixed;
     top: 0;
     right: 0;
@@ -394,7 +394,7 @@ header {
     content: "";
     position: absolute;
     top: -10px;
-    left: 50%;
+    left: 100%;
     -webkit-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
             transform: translateX(-50%);
