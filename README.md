@@ -6,4 +6,4 @@ I love airplanes and would love to use it to my advantage cause omg..I love love
 
 I made my Project with HTML, CSS, Java Script and lots of testing and inspo!
 
-I still had challenges with JS but I have learned alot like you can add more than one html and css. I also believed in myself that I can do things I never would have thought I could!
+I still had challenges with JS but I have learned alot like you can add more than one html and css. I also believed in myself that I can do things I never would have thought I could! :>
