@@ -1,6 +1,7 @@
 How to get url :>
 
-<img width="1890" height="977" alt="image" src="https://github.com/user-attachments/assets/e0e950fa-3dcc-4214-b431-076771dde3a2" />
+<img width="1892" height="970" alt="Screenshot 2025-12-19 170927" src="https://github.com/user-attachments/assets/10002632-412f-4ef3-a592-7b2b598704a3" />
+
 
 
 
